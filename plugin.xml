@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <e107Plugin name="Userlanguage Flags Menu" lan="USLFM_P_1" version="2.1.2" date="2016-03-21" compatibility="2.0" installRequired="true" >
-	<author name="JmoRava / Jimako" />
-	<summary lan="USLFM_P_2">This menu selection allows users to choose the language translation.</summary>
-	<description lan="USLFM_P_2"></description>
+	<author name="JmoRava / Jimako" />	
+	
+	<summary lan="USLFM_P_2">A menü lehetővé teszi a felhasználóknak az oldal nyelvének kiválasztását.</summary>
+	<description lan="USLFM_P_2">A menü lehetővé teszi a felhasználóknak az oldal nyelvének kiválasztását.</description>
+	
 	<keywords>
 		<word>menu</word>
 		<word>language</word>

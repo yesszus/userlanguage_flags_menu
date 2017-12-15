@@ -7,6 +7,8 @@ if (!getperms('P'))
 	exit;
 }
 
+e107::lan('userlanguage_flags_menu', true);
+
 class userlanguage_flags_menu_adminArea extends e_admin_dispatcher
 {
 

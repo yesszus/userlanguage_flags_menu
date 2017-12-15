@@ -2,6 +2,7 @@
 
 if (!defined('e107_INIT')) { exit; }
 
+e107::lan('userlanguage_flags_menu');
 
 class userlanguage_flags_menu_shortcodes  extends e_shortcode
 {
